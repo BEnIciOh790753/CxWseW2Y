@@ -8,7 +8,6 @@ NEXT_PUBLIC_CLERK_SIGN_UP_URL=/signup
 # Everything below is required for Local Development #
 ######################################################
 # Copy from Stripe Dashboard in Test Mode
-STRIPE_SECRET_KEY=
 # Copy from Stripe CLI after running `pnpm run stripe:webhooks`
 STRIPE_WEBHOOK_SECRET=
 
